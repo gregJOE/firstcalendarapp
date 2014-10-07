@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"subRate"
+			],
+			[
+				"get",
+				"get_current_user"
+			],
+			[
+				"ges",
+				"guestbook_name"
+			],
+			[
+				"sign",
+				"sign_query_params"
+			],
+			[
+				"M",
+				"MAIN_PAGE_FOOTER_TEMPLATE"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"gues",
+				"guestbook_name"
+			],
+			[
+				"ma",
+				"MAIN_PAGE_HTML"
+			],
+			[
+				"screen",
+				"screenHeight"
+			],
+			[
+				"ext",
+				"extentionType"
+			],
+			[
+				"searc",
+				"searchDirectoryForExstention"
+			],
+			[
+				"car",
+				"carpool_capacity"
+			],
+			[
+				"cars_",
+				"cars_not_driven"
+			],
+			[
+				"contacts",
+				"ContactsRouter"
+			],
+			[
+				"Con",
+				"ContactsRouter"
+			],
+			[
+				"filter",
+				"filterType"
+			],
+			[
+				"render",
+				"rendering"
+			],
+			[
+				"filt",
+				"filterType"
+			],
+			[
+				"fil",
+				"filterType"
+			],
+			[
+				"crate",
+				"createSelect"
+			],
+			[
+				"Diec",
+				"DirectoryView"
+			],
+			[
+				"rend",
+				"renderContact"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "AngularJS\n\nfakingfantastic.com/ng\nsinglepageappbook.com/goal.html\ndocs.angularjs.org/tutorial\n\nWhat is AngularJS?\n	- ANGULAR <> JQUERY\n	- MVW (Model - View - Whatever)\n	- Key Features:\n		- Two way data binding \n		- Dependency injection\n		- HTML Extensibility\n\n		- Directive:\n			- Way to extend HTML\n				- <html lang=\"en\" ng-app>\n				- ng-controller\n				- ng-repeat (iteratable | filter:)\n				- ng-model\n				- ng-src\n				- ng-animate (dependency)\n\n		- Interpreted code / Bound\n			- {{ ** code here ** }}\n\n		- app.js (main point)\n		- index.html\n		- controller.js\n			- directive in index.html points to module defined in controller\n\n		- Templating\n		- Routing\n\n	- jQuery\n		- NOT A FRAMEWORK, BUT A LIBRARY\n			- selector-based nature = tight coupling\n				- \n			- lack of faclities resulted in a lots of boilerplate code\n			- No file structure / spaghetti code\n		- Simplied the DOM API\n		- Normalized browsers\n		- Various Javascript \n\n\n	- Single Page Application (SPA)\n		- Initial page load -> subsequent fragment loading = FAST\n		- East of maintaining state\n		- Decrease tight coupling with the backend\n\n\n",
+			"file": "/Users/gregjob/Desktop/AngularJS-Notes",
+			"file_size": 1030,
+			"file_write_time": 1409876191000000,
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Unix",
+				"name": "AngularJS"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 158,
+				"line_ending": "Unix",
+				"name": "<!DOCTYPE HTML>"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 43,
+				"line_ending": "Unix",
+				"name": "* {"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gregjob/Desktop/asdasdasdasdasbasda.txt",
+		"/Users/gregjob/Python/Reddit Challenege/asciiPictures.py",
+		"/Users/gregjob/Desktop/challenge.py",
+		"/Users/gregjob/Chrome/guestbook/app.yaml",
+		"/Users/gregjob/Chrome/guestbook/guestbook.py",
+		"/Users/gregjob/Chrome/ProblemSet2/app.yaml",
+		"/Users/gregjob/Chrome/ProblemSet2/PS2.py",
+		"/Users/gregjob/Chrome/ProblemSet2/main.py",
+		"/Users/gregjob/Chrome/TestAppChrome/main.js",
+		"/Users/gregjob/Chrome/TestAppChrome/index.html",
+		"/Users/gregjob/Chrome/TestAppChrome/manifest.json",
+		"/Users/gregjob/Desktop/PestPac_StandardFormsInsert (20140129).sql",
+		"/Users/gregjob/Desktop/PestPac_StandardFormsInsert (1).sql",
+		"/Users/gregjob/Desktop/IdeaForFormScriptUpdate.sql",
+		"/Users/gregjob/Chrome/TestAppChrome/styles/main.css",
+		"/Users/gregjob/Python/mircoblog/app/templates/base.html",
+		"/Users/gregjob/Python/mircoblog/app/templates/index.html",
+		"/Users/gregjob/Python/mircoblog/app/views.py",
+		"/Users/gregjob/Desktop/Python Scripts/FileProcessor/functions.py",
+		"/Users/gregjob/Desktop/Python Scripts/FileProcessor/fileTravel.py",
+		"/Users/gregjob/Music/iTunes/iTunes Music Library.xml",
+		"/Users/gregjob/Desktop/Python Scripts/LearningPythonTheHardWay/ex4.py",
+		"/Users/gregjob/Desktop/Python Scripts/LearningPythonTheHardWay/ex1.py",
+		"/Users/gregjob/Downloads/A.Good.Day.To.Die.Hard.2013.720p.WEB-DL.English{Forced}.srt",
+		"/Users/gregjob/Downloads/A.Good.Day.To.Die.Hard.2013.Extended.Cut.BDRip.XviD-EXViD[rarbg]/a.good.day.to.die.hard.(2013).eng.1cd.(4988475)/A Good Day To Die Hard.srt",
+		"/Users/gregjob/Desktop/Contacts-BackboneJS/index.htm",
+		"/Users/gregjob/Desktop/Contacts-BackboneJS/js/app.js",
+		"/Users/gregjob/Desktop/demo/js/app.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"<i>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			")",
+			"xml",
+			"files",
+			"<<i>",
+			"</<i>",
+			"i>",
+			"29",
+			"\\d00",
+			"renderSelect",
+			"})",
+			"filterByType:",
+			"filterByType: function () ",
+			"filterByType: function () {\n    if (this.filterType === \"all\") {\n        this.collection.reset(contacts);\n    } else {\n        this.collection.reset(contacts, { silent: true });\n \n        var filterType = this.filterType,\n            filtered = _.filter(this.collection.models, function (item) {\n            return item.get(\"type\").toLowerCase() === filterType;\n        });\n \n        this.collection.reset(filtered);\n    }\n}",
+			"type",
+			"});"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<i>",
+			"</i>",
+			"<i>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/gregjob/Desktop/AngularJS-Notes",
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"auto_name": "AngularJS",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 27.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								132,
+								132
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!DOCTYPE HTML>",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 43,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								41
+							]
+						],
+						"settings":
+						{
+							"auto_name": "* {",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 221.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
